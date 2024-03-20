@@ -10,7 +10,7 @@ service Shortener {
 }
 
 message ShortenURLRequest {
-    string url = 1;
+    string URL = 1;
 }
 
 message ShortenURLResponse {
